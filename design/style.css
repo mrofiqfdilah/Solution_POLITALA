@@ -1,0 +1,217 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+body {
+    background-color: #f9f9f9;
+    overflow-x: hidden;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 17px 10px; /* Padding tetap ada */
+    margin-left: -10px; /* Menambahkan margin negatif */
+    margin-right: -10px; /* Menambahkan margin negatif */
+    border-bottom: 1px solid #ddd;
+}
+
+header h1 {
+    font-size: 24px;
+}
+header nav a {
+    margin-right: 20px;
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+}
+.burger-menu {
+    display: none; /* Sembunyikan burger menu di desktop */
+    flex-direction: column;
+    cursor: pointer;
+}
+
+.burger-menu span {
+    height: 4px;
+    width: 30px;
+    background-color: black;
+    margin: 4px 0;
+}
+
+#nav-menu {
+    display: flex; /* Tampilkan menu secara horizontal di desktop */
+}
+header nav button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#active{
+    color:  #007bff;
+    font-weight: 700;
+}
+.jadwal-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 32px 0;
+}
+.jadwal-header select, .jadwal-header input {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-right: 10px;
+}
+.jadwal-header button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+footer {
+margin-top: 20px;
+padding: 20px;
+background-color: #007bff;
+color: white;
+text-align: center;
+border-radius: 4px;
+}
+footer a {
+color: #f9f9f9;
+text-decoration: underline;
+}
+
+.calendar {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-gap: 20px;
+}
+.day {
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    min-height: 160px; /* Menambah tinggi minimum kotak */
+    position: relative;
+    min-width: 220px; /* Lebarkan kotak */
+}
+.day .date {
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.event {
+    background-color: #f1f1f1;
+    border-left: 5px solid #007bff;
+    padding: 5px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.event-time {
+    font-weight: bold;
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+.tidak-ada-hasil {
+    color: red;
+    text-align: center;
+    grid-column: span 7;
+}
+.icon-suara {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    cursor: pointer;
+}
+
+#container {
+flex: 1; 
+}
+
+footer {
+margin-top: 200px;
+width: 100%;
+background-color: #007bff;
+color: white;
+text-align: center;
+border-radius: 4px;
+}
+
+#kelas-pilihan{
+    width: 300px;
+}
+@media only screen and (max-width: 885px) {
+    .calendar {
+    display: grid;
+    grid-template-columns:none;
+    grid-gap: 20px;
+}
+.burger-menu {
+    display: flex; /* Tampilkan burger menu di mobile */
+    position: relative;
+    left: 1px;
+    width: 50px;
+}
+
+#nav-menu {
+    display: none; /* Sembunyikan menu navigasi di mobile */
+    flex-direction: column; /* Ubah arah menjadi vertikal */
+    position: absolute;
+    top: 60px; /* Sesuaikan posisi sesuai kebutuhan */
+    right: 0;
+    background-color: #f4f5f8; /* Latar belakang menu */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    z-index: 1;
+    height: 80px;
+    width: 100%; /* Lebar 100% */
+}
+
+#nav-menu a{
+    position: relative;
+    left: 15px;
+    margin-top:10px;
+}
+
+#nav-menu.active {
+    display: flex; /* Tampilkan menu ketika aktif */
+}
+
+.logo{
+    position: relative;
+    left: 15px;
+}
+.jadwal-header {
+    display: block;
+    padding: 20px;
+    justify-content:center;
+
+}
+#kelas-pilihan,#input-cari{
+    width: 100%;
+}
+.jadwal-search{
+    margin-top: 10px;
+}
+#tombol-cari{
+    margin-top: 10px;
+    width: 100%;
+}
+
+#input-cari{
+   width: 100%;
+    margin-top: 10px;
+}
+}

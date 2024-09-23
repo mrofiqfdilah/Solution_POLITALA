@@ -1,0 +1,310 @@
+{
+    "kelas": {
+        "10 IPA": [
+            {
+                "hari": "Senin",
+                "mata_pelajaran": "Matematika",
+                "waktu": "08:00 - 09:30"
+            },
+            {
+                "hari": "Senin",
+                "mata_pelajaran": "Fisika",
+                "waktu": "09:45 - 11:15"
+            },
+            {
+                "hari": "Senin",
+                "mata_pelajaran": "Istirahat",
+                "waktu": "11:15 - 12:00"
+            },
+            {
+                "hari": "Senin",
+                "mata_pelajaran": "Biologi",
+                "waktu": "12:00 - 13:30"
+            },
+            {
+                "hari": "Selasa",
+                "mata_pelajaran": "Kimia",
+                "waktu": "08:00 - 09:30"
+            },
+            {
+                "hari": "Selasa",
+                "mata_pelajaran": "Bahasa Indonesia",
+                "waktu": "09:45 - 11:15"
+            },
+            {
+                "hari": "Selasa",
+                "mata_pelajaran": "Istirahat",
+                "waktu": "11:15 - 12:00"
+            },
+            {
+                "hari": "Selasa",
+                "mata_pelajaran": "Bahasa Inggris",
+                "waktu": "12:00 - 13:30"
+            },
+            {
+                "hari": "Rabu",
+                "mata_pelajaran": "Geografi",
+                "waktu": "08:00 - 09:30"
+            },
+            {
+                "hari": "Rabu",
+                "mata_pelajaran": "Sejarah",
+                "waktu": "09:45 - 11:15"
+            },
+            {
+                "hari": "Rabu",
+                "mata_pelajaran": "Istirahat",
+                "waktu": "11:15 - 12:00"
+            },
+            {
+                "hari": "Rabu",
+                "mata_pelajaran": "Seni Budaya",
+                "waktu": "12:00 - 13:30"
+            },
+            {
+                "hari": "Kamis",
+                "mata_pelajaran": "Pendidikan Agama",
+                "waktu": "08:00 - 09:30"
+            },
+            {
+                "hari": "Kamis",
+                "mata_pelajaran": "Sosiologi",
+                "waktu": "09:45 - 11:15"
+            },
+            {
+                "hari": "Kamis",
+                "mata_pelajaran": "Istirahat",
+                "waktu": "11:15 - 12:00"
+            },
+            {
+                "hari": "Kamis",
+                "mata_pelajaran": "Prakarya",
+                "waktu": "12:00 - 13:30"
+            },
+            {
+                "hari": "Jumat",
+                "mata_pelajaran": "Olahraga",
+                "waktu": "08:00 - 09:30"
+            },
+            {
+                "hari": "Jumat",
+                "mata_pelajaran": "Fisika",
+                "waktu": "09:45 - 11:15"
+            },
+            {
+                "hari": "Jumat",
+                "mata_pelajaran": "Istirahat",
+                "waktu": "11:15 - 12:00"
+            },
+            {
+                "hari": "Jumat",
+                "mata_pelajaran": "Biologi",
+                "waktu": "12:00 - 13:30"
+            }
+        ],
+        "11 IPA": [
+            {
+                "hari": "Senin",
+                "mata_pelajaran": "Matematika",
+                "waktu": "08:00 - 09:30"
+            },
+            {
+                "hari": "Senin",
+                "mata_pelajaran": "Fisika",
+                "waktu": "09:45 - 11:15"
+            },
+            {
+                "hari": "Senin",
+                "mata_pelajaran": "Istirahat",
+                "waktu": "11:15 - 12:00"
+            },
+            {
+                "hari": "Senin",
+                "mata_pelajaran": "Kimia",
+                "waktu": "12:00 - 13:30"
+            },
+            {
+                "hari": "Selasa",
+                "mata_pelajaran": "Biologi",
+                "waktu": "08:00 - 09:30"
+            },
+            {
+                "hari": "Selasa",
+                "mata_pelajaran": "Bahasa Indonesia",
+                "waktu": "09:45 - 11:15"
+            },
+            {
+                "hari": "Selasa",
+                "mata_pelajaran": "Istirahat",
+                "waktu": "11:15 - 12:00"
+            },
+            {
+                "hari": "Selasa",
+                "mata_pelajaran": "Bahasa Inggris",
+                "waktu": "12:00 - 13:30"
+            },
+            {
+                "hari": "Rabu",
+                "mata_pelajaran": "Geografi",
+                "waktu": "08:00 - 09:30"
+            },
+            {
+                "hari": "Rabu",
+                "mata_pelajaran": "Sejarah",
+                "waktu": "09:45 - 11:15"
+            },
+            {
+                "hari": "Rabu",
+                "mata_pelajaran": "Istirahat",
+                "waktu": "11:15 - 12:00"
+            },
+            {
+                "hari": "Rabu",
+                "mata_pelajaran": "Seni Budaya",
+                "waktu": "12:00 - 13:30"
+            },
+            {
+                "hari": "Kamis",
+                "mata_pelajaran": "Pendidikan Agama",
+                "waktu": "08:00 - 09:30"
+            },
+            {
+                "hari": "Kamis",
+                "mata_pelajaran": "Ekonomi",
+                "waktu": "09:45 - 11:15"
+            },
+            {
+                "hari": "Kamis",
+                "mata_pelajaran": "Istirahat",
+                "waktu": "11:15 - 12:00"
+            },
+            {
+                "hari": "Kamis",
+                "mata_pelajaran": "Prakarya",
+                "waktu": "12:00 - 13:30"
+            },
+            {
+                "hari": "Jumat",
+                "mata_pelajaran": "Olahraga",
+                "waktu": "08:00 - 09:30"
+            },
+            {
+                "hari": "Jumat",
+                "mata_pelajaran": "Fisika",
+                "waktu": "09:45 - 11:15"
+            },
+            {
+                "hari": "Jumat",
+                "mata_pelajaran": "Istirahat",
+                "waktu": "11:15 - 12:00"
+            },
+            {
+                "hari": "Jumat",
+                "mata_pelajaran": "Kimia",
+                "waktu": "12:00 - 13:30"
+            }
+        ],
+        "12 IPA": [
+            {
+                "hari": "Senin",
+                "mata_pelajaran": "Matematika",
+                "waktu": "08:00 - 09:30"
+            },
+            {
+                "hari": "Senin",
+                "mata_pelajaran": "Fisika",
+                "waktu": "09:45 - 11:15"
+            },
+            {
+                "hari": "Senin",
+                "mata_pelajaran": "Istirahat",
+                "waktu": "11:15 - 12:00"
+            },
+            {
+                "hari": "Senin",
+                "mata_pelajaran": "Kimia",
+                "waktu": "12:00 - 13:30"
+            },
+            {
+                "hari": "Selasa",
+                "mata_pelajaran": "Biologi",
+                "waktu": "08:00 - 09:30"
+            },
+            {
+                "hari": "Selasa",
+                "mata_pelajaran": "Bahasa Indonesia",
+                "waktu": "09:45 - 11:15"
+            },
+            {
+                "hari": "Selasa",
+                "mata_pelajaran": "Istirahat",
+                "waktu": "11:15 - 12:00"
+            },
+            {
+                "hari": "Selasa",
+                "mata_pelajaran": "Bahasa Inggris",
+                "waktu": "12:00 - 13:30"
+            },
+            {
+                "hari": "Rabu",
+                "mata_pelajaran": "Geografi",
+                "waktu": "08:00 - 09:30"
+            },
+            {
+                "hari": "Rabu",
+                "mata_pelajaran": "Sejarah",
+                "waktu": "09:45 - 11:15"
+            },
+            {
+                "hari": "Rabu",
+                "mata_pelajaran": "Istirahat",
+                "waktu": "11:15 - 12:00"
+            },
+            {
+                "hari": "Rabu",
+                "mata_pelajaran": "Seni Budaya",
+                "waktu": "12:00 - 13:30"
+            },
+            {
+                "hari": "Kamis",
+                "mata_pelajaran": "Pendidikan Agama",
+                "waktu": "08:00 - 09:30"
+            },
+            {
+                "hari": "Kamis",
+                "mata_pelajaran": "Ekonomi",
+                "waktu": "09:45 - 11:15"
+            },
+            {
+                "hari": "Kamis",
+                "mata_pelajaran": "Istirahat",
+                "waktu": "11:15 - 12:00"
+            },
+            {
+                "hari": "Kamis",
+                "mata_pelajaran": "Prakarya",
+                "waktu": "12:00 - 13:30"
+            },
+            {
+                "hari": "Jumat",
+                "mata_pelajaran": "Olahraga",
+                "waktu": "08:00 - 09:30"
+            },
+            {
+                "hari": "Jumat",
+                "mata_pelajaran": "Fisika",
+                "waktu": "09:45 - 11:15"
+            },
+            {
+                "hari": "Jumat",
+                "mata_pelajaran": "Istirahat",
+                "waktu": "11:15 - 12:00"
+            },
+            {
+                "hari": "Jumat",
+                "mata_pelajaran": "Kimia",
+                "waktu": "12:00 - 13:30"
+            }
+        ]
+    }
+}
